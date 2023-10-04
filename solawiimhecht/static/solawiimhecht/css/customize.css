@@ -1,7 +1,8 @@
-.juntagrico-logo {
-    /* See https://juntagrico.readthedocs.io/en/latest/theming.html#change-the-logo to change the logo */
+.juntagrico_logo {
+    background: url(/static/solawiimhecht/img/logo.png) center center;
     background-size: contain;
+    background-repeat: no-repeat;
     display: inline-block;
-    width: 580px;
-    height: 161px;
+    width: 300px;
+    height: 300px;
 }
