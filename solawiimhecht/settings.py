@@ -172,3 +172,7 @@ SHARE_PRICE = "350"
 INFO_EMAIL = "solawi@biohofimhecht.ch"
 SERVER_URL = "www.solawiimhecht.org"
 STYLES = {'static': ['solawiimhecht/css/customize.css']}
+
+#Zeitzone
+USE_TZ = True
+TIME_ZONE = 'Europe/Zurich' 
